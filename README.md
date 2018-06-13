@@ -6,5 +6,12 @@ The saponification is a crucial process during the soap making and keeping the t
 
 The aim of the code in the relevant notebook, is to read the raw temperature and humidity data that collected during a saponification process, align them and plot them so we can have a better understanding of their evolution.
 
-<img src="soap.jpg" />
+<img src="soap.png" />
+
+## Experimental Setup
+
+The experimental setup includes two kind of measurements:
+- environ sensors in the environment (inside and outside the box) around the soap.
+- probe sensor inside the soap itself.
+
 <img src="experimental_setup.png" />
