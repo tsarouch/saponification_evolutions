@@ -6,4 +6,5 @@ The saponification is a crucial process during the soap making and keeping the t
 
 The aim of the code in the relevant notebook, is to read the raw temperature and humidity data that collected during a saponification process, align them and plot them so we can have a better understanding of their evolution.
 
-<img src="pics/soap.jpg">
+<img src="soap.jpg">
+
