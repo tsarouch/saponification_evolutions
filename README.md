@@ -8,3 +8,4 @@ The aim of the code in the relevant notebook, is to read the raw temperature and
 
 <img src="soap.jpg">
 
+![my_image](soap.png)
